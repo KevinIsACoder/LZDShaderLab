@@ -1,0 +1,7 @@
+ProjectSettings/
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+Library/
